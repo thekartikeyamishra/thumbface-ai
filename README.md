@@ -57,7 +57,7 @@ Installation
 
 Clone the repository
 
-git clone [https://github.com/thekartikeyamishra/thumbface-ai.git](https://github.com/thekartikeyamishra/thumbface-ai.git)
+git clone [[https://github.com/thekartikeyamishra/thumbface-ai.git](https://github.com/thekartikeyamishra/thumbface-ai.git)]
 cd thumbface-ai
 
 
@@ -134,3 +134,4 @@ Distributed under the MIT License. See LICENSE for more information.
 <div align="center">
 <p>Built with ❤️ by <a href="https://github.com/thekartikeyamishra">Kartikeya Mishra</a></p>
 </div>
+
