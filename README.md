@@ -2,11 +2,16 @@
 
 <div align="center">
 
-Stop Making Boring Thumbnails. Generate hyper-expressive, high-CTR AI faces for YouTube thumbnails in seconds.
+<br />
+
+Stop Making Boring Thumbnails. <br />
+Generate hyper-expressive, high-CTR AI faces for YouTube thumbnails in seconds.
 
 View Demo · Report Bug · Request Feature
 
 </div>
+
+<br />
 
 🚀 About The Project
 
