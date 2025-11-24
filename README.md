@@ -83,22 +83,6 @@ Run the development server
 npm run dev
 
 
-📂 Project Structure
-
-thumbface-ai/
-├── src/
-│   ├── App.jsx             # Core Application Logic & UI
-│   ├── main.jsx            # Entry Point
-│   └── index.css           # Global Styles & Tailwind Directives
-├── public/                 # Static Assets
-├── .env                    # Environment Variables (Git Ignored)
-├── firebase.json           # Firebase Configuration
-├── firestore.rules         # Database Security Rules
-├── tailwind.config.js      # Tailwind Configuration
-└── vite.config.js          # Vite Configuration
-
-
-
 🔮 Roadmap
 
 [x] Initial UI/UX & Gamification Logic
@@ -132,6 +116,7 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 <div align="center">
-<p>Built with ❤️ by <a href="https://github.com/thekartikeyamishra">Kartikeya Mishra</a></p>
+<p>Built with ❤️ by <a href="https://www.linkedin.com/in/thekartikeyamishra/)">Kartikeya Mishra</a></p>
 </div>
+
 
